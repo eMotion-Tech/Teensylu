@@ -1,0 +1,19 @@
+menu.usb=USB Type
+menu.speed=CPU Speed
+menu.keys=Keyboard Layout
+
+
+cdcteensylu.name=[CDC]Teensylu
+cdcteensylu.upload.protocol=avr109
+cdcteensylu.upload.maximum_size=130048
+cdcteensylu.build.mcu=at90usb1286
+cdcteensylu.build.f_cpu=16000000L
+cdcteensylu.build.core=teensy
+cdcteensylu.build.define0=-DUSB_SERIAL
+cdcteensylu.build.define1=-DLAYOUT_US_ENGLISH
+cdcteensylu.upload.speed=115200
+cdcteensylu.bootloader.file=BootloaderCDC.hex
+cdcteensylu.bootloader.path=cdcteensylu
+cdcteensylu.bootloader.low_fuses=0xde
+cdcteensylu.bootloader.high_fuses=0xdb
+cdcteensylu.bootloader.extended_fuses=0xf0
