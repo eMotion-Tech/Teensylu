@@ -15,7 +15,7 @@ It include:
 
 Sources
 -------------------------
-All information and file can be found here:
+All informations and files can be found here:
 * [Teensy project](http://pjrc.com/)
 * [Lincomatic blog](http://blog.lincomatic.com/?p=548)
 * [CDC bootloader](https://github.com/sparkfun/32U4_Breakout_Board/tree/master/Bootloaders/CDC)
