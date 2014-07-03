@@ -31,6 +31,7 @@ Vous trouverez ici:
 Sources
 -------------------------
 All informations and files can be found here:
+* [The Teensylu from StephS!!](https://github.com/StephS/Teensylu)
 * [Teensy project](http://pjrc.com/)
 * [Lincomatic blog](http://blog.lincomatic.com/?p=548)
 * [CDC bootloader](https://github.com/sparkfun/32U4_Breakout_Board/tree/master/Bootloaders/CDC)
