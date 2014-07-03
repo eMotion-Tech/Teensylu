@@ -32,6 +32,14 @@ Vous trouverez ici:
 * Pilotes logiciels
 * Réadressage correct du pins.h à verifier(IMPORTANT)
 
+
+CAUTION - Attention
+-------------------------
+Has StephS said, be carefull when you are using your board and printer.
+It's hobbiest printer so DO ABSOLUTELY NOT let your printer UNATTENDED!
+
+
+
 Sources
 -------------------------
 All informations and files can be found here:
