@@ -13,6 +13,21 @@ It include:
 
 
 
+
+
+French
+-------------------------
+
+Information
+-------------------------
+Ce dossier inclus tout ce qui est nécéssaire à l'utilisation d'une Teensylu,
+
+Vous trouverez ici:
+* Support Arduino [copier le dossier Teensy dans arduino/hardware]
+* Bootloader pour Teensylu
+* Pilotes logiciels
+* Réadressage correct du pins.h à verifier(IMPORTANT)
+
 Sources
 -------------------------
 All informations and files can be found here:
