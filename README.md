@@ -15,8 +15,7 @@ It include:
 
 
 
-Note: "Arduino 1.5.x BETA versions are not yet supported. Multiple copies of the Arduino software can coexist and even run simultaneously on the same computer."
-https://www.pjrc.com/teensy/td_download.html
+Note: "Arduino 1.5.x BETA versions are not yet supported. Multiple copies of the Arduino software can coexist and even run simultaneously on the same computer. " cf https://www.pjrc.com/teensy/td_download.html
 
 
 
